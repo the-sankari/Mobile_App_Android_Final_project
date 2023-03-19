@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="viewWeatherDetails" type="id" />
+    <item name="txtCityName" type="id" />
+    <item name="txtDescription" type="id" />
+    <item name="txtTemperature" type="id" />
+    <item name="txtWindSpeed" type="id" />
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_city_name">শহরের নাম লিখুন</string>
+    <string name="app_name">আবহাওয়া</string>
+    <string name="get_at_my_location">আমার স্থানের আবহাওয়া</string>
+    <string name="getting_your_location">আপনার অবস্থান সংগ্রহ করা হচ্ছে</string>
+    <string name="btn_search_by_city_name">খোঁজ</string>
+    <string name="message_empty_city_name">শহরের নাম খালি থাকবে না</string>
+    <string name="message_invalid_location">অজানা অবস্থান</string>
+    <string name="empty_humidity">খালি</string>
+    <string name="empty_local_time">খালি</string>
+    <string name="empty_temperature">খালি °সেলসিয়াস</string>
+    <string name="empty_description">খালি বর্ণনা</string>
+    <string name="empty_sunrise">খালি</string>
+    <string name="empty_time_zone">খালি</string>
+    <string name="empty_sunset">খালি</string>
+    <string name="wind_speed">বাতাসের গতি</string>
+    <string name="humidity">আর্দ্রতা</string>
+    <string name="sun_rise">সূর্যোদয়</string>
+    <string name="time_zone">সময় অঞ্চল</string>
+    <string name="feels_like">অনুভূতি</string>
+    <string name="pressure">চাপ</string>
+    <string name="sun_set">সূর্যাস্ত</string>
+    <string name="local_time">স্থানীয় সময়</string>
+    <string name="empty_pressure">খালি</string>
+    <string name="empty_city_name">খালি  শহরের নাম</string>
+    <string name="empty_wind_speed">খালি</string>
+    <string name="empty_feels_like">খালি</string>
+    <string name="my_location">আমার অবস্থান</string>
+    <string name="message_city_not_found">শহর পাওয়া যায়নি</string>
+    <string name="open_map">মানচিত্র খুলুন</string>
+</resources>

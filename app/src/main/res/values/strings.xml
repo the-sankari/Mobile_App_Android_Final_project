@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="enter_city_name">Enter city name …</string>
+    <string name="get_at_my_location">Weather at My Location</string>
+    <string name="getting_your_location">Getting your location …</string>
+    <string name="btn_search_by_city_name">Search</string>
+    <string name="helsinki" translatable="false">Helsinki</string>
+    <string name="paris" translatable="false">Paris</string>
+    <string name="tokyo" translatable="false">Tokyo</string>
+    <string name="dhaka" translatable="false">Dhaka</string>
+    <string name="message_empty_city_name">City name cannot be empty!</string>
+    <string name="message_invalid_location">Invalid location!</string>
+    <string name="empty_humidity">Empty</string>
+    <string name="empty_local_time">Empty</string>
+    <string name="empty_temperature">Empty °C</string>
+    <string name="empty_description">Empty description</string>
+    <string name="empty_sunrise">Empty</string>
+    <string name="empty_time_zone">Empty</string>
+    <string name="empty_sunset">Empty</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="sun_rise">Sun rise</string>
+    <string name="time_zone">Time zone</string>
+    <string name="feels_like">Feels like</string>
+    <string name="pressure">Pressure</string>
+    <string name="sun_set">Sun set</string>
+    <string name="local_time">Local time</string>
+    <string name="empty_pressure">Empty</string>
+    <string name="empty_city_name">Empty city name</string>
+    <string name="empty_wind_speed">Empty</string>
+    <string name="empty_feels_like">Empty</string>
+    <string name="temp" translatable="false"> %d°C</string>
+    <string name="degree_celcius" translatable="false">\ °C\</string>
+    <string name="meter_per_second" translatable="false">\ m/s\</string>
+    <string name="modulas" translatable="false">\ %\</string>
+    <string name="pascal" translatable="false">\ hPa\</string>
+    <string name="gmt" translatable="false">\GMT \</string>
+    <string name="my_location">My location</string>
+    <string name="googleMap" translatable="false">googleMap</string>
+    <string name="message_city_not_found">City not found!</string>
+    <string name="city_name" translatable="false">CITY_NAME</string>
+    <string name="fetch_by_city_name" translatable="false">FETCH_BY_CITY_NAME</string>
+    <string name="type" translatable="false">TYPE</string>
+    <string name="longitude" translatable="false">LONGITUDE</string>
+    <string name="latitude" translatable="false">LATITUDE</string>
+    <string name="fetch_by_long_lat" translatable="false">FETCH_BY_LONG_LAT</string>
+    <string name="name" translatable="false">name</string>
+    <string name="plus_sign" translatable="false">+</string>
+    <string name="open_map">Open Map</string>
+    <string name="title_activity_map" translatable="false">MapActivity</string>
+</resources>

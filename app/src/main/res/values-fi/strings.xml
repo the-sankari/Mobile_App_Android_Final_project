@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_city_name">Anna kaupungin nimi</string>
+    <string name="app_name">Sää</string>
+    <string name="get_at_my_location">Sää paikassani</string>
+    <string name="getting_your_location">Haetaan sijaintiasi...</string>
+    <string name="btn_search_by_city_name">Hae</string>
+    <string name="message_empty_city_name">Kaupungin nimi ei voi olla tyhjä!</string>
+    <string name="message_invalid_location">Virheellinen sijainti!</string>
+    <string name="empty_humidity">Tyhjä</string>
+    <string name="empty_local_time">Tyhjä</string>
+    <string name="empty_temperature">Tyhjä ° Celsius</string>
+    <string name="empty_description">Tyhjä kuvaus</string>
+    <string name="empty_sunrise">Tyhjä</string>
+    <string name="empty_time_zone">Tyhjä</string>
+    <string name="empty_sunset">Tyhjä</string>
+    <string name="wind_speed">Tuulen nopeus</string>
+    <string name="humidity">Kosteus</string>
+    <string name="sun_rise">Auringonnousu</string>
+    <string name="time_zone">Aikavyöhyke</string>
+    <string name="feels_like">Tuntuu siltä</string>
+    <string name="pressure">Paine</string>
+    <string name="sun_set">Auringonlasku</string>
+    <string name="local_time">Paikallinen aika</string>
+    <string name="empty_pressure">Tyhjä</string>
+    <string name="empty_city_name">Tyhjä kaupungin nimi</string>
+    <string name="empty_wind_speed">Tyhjä</string>
+    <string name="empty_feels_like">Tyhjä</string>
+    <string name="my_location">Minun sijaintini</string>
+    <string name="message_city_not_found">Kaupunkia ei löydy</string>
+    <string name="open_map">Avaa kartta</string>
+</resources>
