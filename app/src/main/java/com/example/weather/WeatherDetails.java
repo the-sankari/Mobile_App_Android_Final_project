@@ -99,13 +99,13 @@ public class WeatherDetails extends AppCompatActivity {
         if (type.equals("FETCH_BY_CITY_NAME")) {
             String cityName = getIntent().getStringExtra("CITY_NAME");
             if (cityName.length() > 0) {
-                API_URL = String.format("https://api.openweathermap.org/data/2.5/weather?units=metric&appid=5622cb40de2295cbe310873a4c97d2a8&q=%s", cityName);
+                API_URL = String.format("https://api.openweathermap.org/data/2.5/weather?units=metric&appidMY_API_KEY&q=%s", cityName);
             }
         }
         else if (type.equals("FETCH_BY_LONG_LAT")) {
             double longitude = getIntent().getDoubleExtra("LONGITUDE", 0);
             double latitude = getIntent().getDoubleExtra("LATITUDE", 0);
-            API_URL = String.format("https://api.openweathermap.org/data/2.5/weather?units=metric&appid=5622cb40de2295cbe310873a4c97d2a8&lon=%s&lat=%s", longitude, latitude);
+            API_URL = String.format("https://api.openweathermap.org/data/2.5/weather?units=metric&appid=MY_API_KEY&lon=%s&lat=%s", longitude, latitude);
 
         }
     }
